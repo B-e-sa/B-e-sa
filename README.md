@@ -5,7 +5,7 @@ I'm a front-end developer that loves React!
 I think thats it lol 👾
 
 Currently, i'm improving my knowledge about data science with Python and Pandas, <br> 
-but you can see my front-end works right below!
+BUT you can see my front-end works right below!
 
 Skills:<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
