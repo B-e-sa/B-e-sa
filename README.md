@@ -4,7 +4,7 @@ I'm a front-end developer that loves React!
 
 I think thats it lol 👾
 
-Currently, i'm improving my knowledge about data science with Python and Pandas,<br> **BUT** you can see my front-end works right below!  
+Currently, i'm improving my knowledge in C# and Java 
 
 [![Netlify](https://img.shields.io/website?label=Netlify&style=for-the-badge&url=https://b-e-sa.netlify.app/)](https://b-e-sa.netlify.app)
 <br>
