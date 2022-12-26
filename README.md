@@ -28,6 +28,9 @@ Currently, i'm improving my knowledge in C# and Java
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-323330?style=for-the-badge&logo=firebase&logoColor=?)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-e-sa)](https://github.com/B-e-sa/github-readme-stats)
+
+
 ### How to reach me?
 Discord: Besa#4225
 <br>
