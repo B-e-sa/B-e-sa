@@ -12,7 +12,8 @@ Currently, i'm improving my knowledge in C# and Java
 
 ### Skills:<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=ff3838)<br>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -27,9 +28,10 @@ Currently, i'm improving my knowledge in C# and Java
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-323330?style=for-the-badge&logo=firebase&logoColor=?)
+![Postgres](https://img.shields.io/badge/Postgres-375687?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-e-sa&hide=javascript,html,css)](https://github.com/B-e-sa/github-readme-stats)
-
+![Docker](https://img.shields.io/badge/Docker-5c9aff?style=for-the-badge&logo=docker&logoColor=white)
 
 ### How to reach me?
 Discord: Besa#4225
