@@ -15,6 +15,8 @@ Currently, i'm improving my knowledge in C# and Java
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=ff3838)<br>
 
+![Redux](https://img.shields.io/badge/Redux-7749BD?style=for-the-badge&logo=redux&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
