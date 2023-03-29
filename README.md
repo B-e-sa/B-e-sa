@@ -7,8 +7,6 @@ I think thats it lol 👾
 Currently, i'm improving my knowledge in C# and Java 
 
 [![Netlify](https://img.shields.io/website?label=Netlify&style=for-the-badge&url=https://b-e-sa.netlify.app/)](https://b-e-sa.netlify.app)
-<br>
-[![Surge](https://img.shields.io/website?label=Surge&style=for-the-badge&url=https://b-e-sa.surge.sh/)](https://b-e-sa.surge.sh/)
 
 ### Skills:<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
