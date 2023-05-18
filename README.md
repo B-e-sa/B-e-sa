@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-I'm a front-end developer that loves React!
-
-I think thats it lol 👾
+I'm a fullstack developer that loves programming!
 
 Currently, i'm improving my knowledge in C# and Java 
 
