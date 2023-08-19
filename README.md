@@ -11,7 +11,9 @@ Currently, i'm improving my knowledge in Ruby
 ### How to reach me?
 Discord: Besa#4225
 <br>
-Gmail: joaospereira963@gmail.com
+Email: joaospereira963@gmail.com
+<br>
+LinkedIn: https://www.linkedin.com/in/joão-antônio-pereira-b4021b232/
 
 <!--
 **B-e-sa/B-e-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
