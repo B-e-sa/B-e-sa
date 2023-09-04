@@ -2,7 +2,7 @@
 
 I'm a fullstack developer that loves programming!
 
-Currently, i'm improving my knowledge in Ruby
+Currently, i'm improving my knowledge in C#
 
 [![Netlify](https://img.shields.io/website?label=Netlify&style=for-the-badge&url=https://b-e-sa.netlify.app/)](https://b-e-sa.netlify.app)
 
