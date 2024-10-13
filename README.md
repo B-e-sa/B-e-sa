@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a fullstack developer that loves fullstack programming!
+I'm a developer that loves fullstack programming!
 
 Currently, i'm improving my knowledge in C#
 
