@@ -4,8 +4,6 @@ I'm a developer that loves fullstack programming!
 
 Currently, i'm improving my knowledge in C#
 
-[![Netlify](https://img.shields.io/website?label=Netlify&style=for-the-badge&url=https://b-e-sa.netlify.app/)](https://b-e-sa.netlify.app)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-e-sa&layout=compact&hide=css,html,sass,javascript&theme=dark)
 
 ### How to reach me?
