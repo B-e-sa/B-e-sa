@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-I'm a developer that loves fullstack programming!
-
-Currently, i'm improving my knowledge in C#
+I'm a fullstack developer, currently improving my knowledge in C# & Java
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-e-sa&layout=compact&hide=css,html,sass,javascript&theme=dark)
 
